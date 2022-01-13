@@ -1,0 +1,6 @@
+[submodule "slovak-wordlist"]
+	path = slovak-wordlist
+	url = git@github.com:danielhusar/slovak-wordlist.git
+[submodule "AnySoftKeyboard"]
+	path = AnySoftKeyboard
+	url = git@github.com:AnySoftKeyboard/AnySoftKeyboard.git
